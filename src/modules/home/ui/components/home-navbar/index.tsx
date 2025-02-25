@@ -2,7 +2,7 @@ import { SidebarTrigger } from "@/components/ui/sidebar";
 import Image from "next/image";
 import Link from "next/link";
 import { SearchInput } from "./SearchInput";
-import { AuthButton } from "@/modules/auth/ui/components/auth-button";
+import { AuthButton } from "@/modules/(auth)/ui/components/auth-button";
 
 export const HomeNavbar = () => {
   return (
